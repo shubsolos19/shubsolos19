@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **javascript**
 
-- 📝 I regularly write articles on tech,dev and web3
+- 📝 I regularly write articles on tech, dev and web3
 
 - 📫 How to reach me **shubhambawari123@gmail.com**
 
