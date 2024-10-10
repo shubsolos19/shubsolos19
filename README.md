@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubham Bawari</h1>
+<h1 align="center">Hi 👋, I'm Shubham </h1>
 <h3 align="center">A passionate full stack web developer who is learning and developing programming skills</h3>
 
 <p align="left"> <a href="https://twitter.com/shub_exe19" target="blank"><img src="https://img.shields.io/twitter/follow/shub_exe19?logo=twitter&style=for-the-badge" alt="shub_exe19" /></a> </p>
