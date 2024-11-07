@@ -27,10 +27,4 @@
 
 [![An image of @shubsolos19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubsolos19)](https://holopin.io/@shubsolos19)
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shubsolos19.shubsolos19&"  />
-</div>
-
-###
