@@ -3,7 +3,14 @@
 
 <p align="left"> <a href="https://twitter.com/shub_exe19" target="blank"><img src="https://img.shields.io/twitter/follow/shub_exe19?logo=twitter&style=for-the-badge" alt="shub_exe19" /></a> </p>
 
-- 🌱 I’m currently learning **javascript**
+
+<div style="display: flex; align-items: center; justify-content: space-between;">  
+  <div>  
+<img src="https://github.com/user-attachments/assets/81b082bf-dcdc-4712-95e8-3d677d1ac894" alt="Your GIF" style="width: 100px; height: 100px;"/>  
+</div>
+
+  
+  - 🌱 I’m currently learning **javascript**
 
 - 📝 I regularly write articles on tech, dev and web3
 
