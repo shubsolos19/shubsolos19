@@ -11,11 +11,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/soul_reaper_shubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/soul_reaper_shubham" height="30" width="40" /></a>
+<a href="https://dev.to/soul_reaper_shubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="soul_reaper_shubham" height="30" width="40" /></a>
 <a href="https://twitter.com/shub_exe19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shub_exe19" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/shubham-bawari-211333256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shubham-bawari-211333256" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/shubhamxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/shubhamxd" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/shubsolos19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shubsolos19/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubham-bawari-211333256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-bawari-211333256" height="30" width="40" /></a>
+<a href="https://instagram.com/soloshub19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soloshub19" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@solospell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@solospell" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shubhamxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhamxd" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shubsolos19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubsolos19" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shubhambawari19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shubhambawari19" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
