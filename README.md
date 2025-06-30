@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/shub_exe19" target="blank"><img src="https://img.shields.io/twitter/follow/shub_exe19?logo=twitter&style=for-the-badge" alt="shub_exe19" /></a> </p>
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **GenAI**
 
 - 📝 I regularly write articles on tech, dev and web3
 
