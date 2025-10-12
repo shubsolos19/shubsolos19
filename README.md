@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham </h1>
-<h3 align="center">creating cool stuff with AI</h3>
+<h3 align="center">Creating cool stuff with AI that makes technology feel a bit more human</h3>
 
 <p align="left"> <a href="https://twitter.com/shub_exe19" target="blank"><img src="https://img.shields.io/twitter/follow/shub_exe19?logo=twitter&style=for-the-badge" alt="shub_exe19" /></a> </p>
 
