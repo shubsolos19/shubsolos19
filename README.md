@@ -7,8 +7,9 @@
 
 - 🌱 I’m currently learning **GenAI, Cloud Computing | DSA(Python)**
 
-- 📫 How to reach me **shubhambawari123@gmail.com**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/asmitamishra1/)**
 
+- 💬 <strong>Ask Me About:</strong> GCP, AWS, Python, Open Source, or anything.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
