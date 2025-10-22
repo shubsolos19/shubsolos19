@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shub_exe19" target="blank"><img src="https://img.shields.io/twitter/follow/shub_exe19?logo=twitter&style=for-the-badge" alt="shub_exe19" /></a> </p>
 
-- 🌱 I’m currently learning **GenAI**
+- 🌱 I’m currently learning **GenAI, Cloud Computing | DSA(Python)**
 
 - 📫 How to reach me **shubhambawari123@gmail.com**
 
