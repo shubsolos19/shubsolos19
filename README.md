@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **GenAI, Cloud Computing | DSA(Python)**
 
-- 📫 How to reach me **[LinkedIn]([https://www.linkedin.com/in/asmitamishra1/](https://www.linkedin.com/in/shubham-bawari/))**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/shubham-bawari/)**
 
 - 💬 <strong>Ask Me About:</strong> GCP, AWS, Python, Open Source, or anything.
   
