@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubham </h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Shubham </h1>
 <h3 align="center">Creating cool stuff with AI </h3>
 
 <img display="flex" align="right" justify-content="flex-end" width="300" height="250" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
