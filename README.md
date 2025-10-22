@@ -13,8 +13,13 @@
 - 💬 <strong>Ask Me About:</strong> GCP, AWS, Python, Open Source, or anything.
   
 - 📍 <strong>Location:</strong> India
+
+<h3 style="font-size: 28px; text-decoration: none;">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZqNDhxaWhsazB1dGt5cnp0MjF6ZDJkMmp1YWQ0ZG5xamlqNW9oNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
+  <b>Connect With Me</b>
+</h3>
   
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://dev.to/soul_reaper_shubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="soul_reaper_shubham" height="30" width="40" /></a>
 <a href="https://twitter.com/shub_exe19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shub_exe19" height="30" width="40" /></a>
