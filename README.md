@@ -1,11 +1,152 @@
+<details open>
+<summary><b>🏆 View Digital Badges</b></summary>
+<br>
+
+<div align="center">
+
+### 🎖️ Distinguished Collection 🎖️
+
+<!-- Royal Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="100">
+      <br>
+      <a href="https://www.cloudskillsboost.google/public_profiles/88955038-92e7-4861-b63b-aee7a92261cc/badges/17367419">
+        <img width="120" src="https://github.com/user-attachments/assets/5da2e679-3b52-4441-8283-cc0326214a9f" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-9370DB?style=flat&labelColor=4B0082" width="80">
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="100">
+      <br>
+      <a href="https://www.cloudskillsboost.google/public_profiles/88955038-92e7-4861-b63b-aee7a92261cc/badges/17519518">
+        <img width="120" src="https://github.com/user-attachments/assets/5fc1176e-143b-4939-8fbe-b1300b3274fc" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-9370DB?style=flat&labelColor=4B0082" width="80">
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="100">
+      <br>
+      <a href="https://www.cloudskillsboost.google/public_profiles/88955038-92e7-4861-b63b-aee7a92261cc/badges/17599566">
+        <img width="120" src="https://github.com/user-attachments/assets/ef0afc64-64ed-4893-88ec-0af7a25c6af5" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-9370DB?style=flat&labelColor=4B0082" width="80">
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="100">
+      <br>
+      <a href="https://www.cloudskillsboost.google/public_profiles/88955038-92e7-4861-b63b-aee7a92261cc/badges/17608666">
+        <img width="120" src="https://github.com/user-attachments/assets/c8e814d4-a558-4753-a28b-90a484f5daec" />
+      </a>
+      <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-9370DB?style=flat&labelColor=4B0082" width="80">
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="100">
+      <br>
+      <a href="https://www.cloudskillsboost.google/public_profiles/88955038-92e7-4861-b63b-aee7a92261cc">
+        <img width="120" src="https://github.com/user-attachments/assets/64eee892-3feb-40e0-841b-518383366572" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-9370DB?style=flat&labelColor=4B0082" width="80">
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="100">
+      <br>
+      <a href="https://www.g.dev/mreccentric"">
+        <img width="120" src="https://github.com/user-attachments/assets/e94fcfc3-0ce2-4143-8ead-879209708878" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-9370DB?style=flat&labelColor=4B0082" width="80">
+    </td>
+  </tr>
+</table>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/🏅-GOOGLE-4169E1?style=for-the-badge&labelColor=191970" width="100">
+      <br>
+      <a href="https://www.skills.google/public_profiles/5e2989aa-4f17-4598-a38c-4292fb70470b/badges/2754989">
+        <img width="120" src="https://github.com/user-attachments/assets/08b63c83-88ce-4c02-8577-ec6a04831717" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-4169E1?style=flat&labelColor=191970" width="80">
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/🏅-GOOGLE-4169E1?style=for-the-badge&labelColor=191970" width="100">
+      <br>
+      <a href="https://www.skills.google/public_profiles/5e2989aa-4f17-4598-a38c-4292fb70470b/badges/2761461">
+        <img width="120" src="https://github.com/user-attachments/assets/17bad112-c62a-4c78-b168-6da3948b1f1b" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-4169E1?style=flat&labelColor=191970" width="80">
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/🏅-GOOGLE-4169E1?style=for-the-badge&labelColor=191970" width="100">
+      <br>
+      <a href="https://www.skills.google/public_profiles/5e2989aa-4f17-4598-a38c-4292fb70470b/badges/2768421">
+        <img width="120" src="https://github.com/user-attachments/assets/5ddace45-00aa-4095-a45f-73f4fb855260" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-4169E1?style=flat&labelColor=191970" width="80">
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/🏅-GOOGLE-4169E1?style=for-the-badge&labelColor=191970" width="100">
+      <br>
+      <a href="https://www.skills.google/public_profiles/5e2989aa-4f17-4598-a38c-4292fb70470b/badges/2780858">
+        <img width="120" src="https://github.com/user-attachments/assets/d5263511-c2c7-43f6-a21c-076ae1fffc78" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-4169E1?style=flat&labelColor=191970" width="80">
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/🏅-GOOGLE-4169E1?style=for-the-badge&labelColor=191970" width="100">
+      <br>
+      <a href="https://www.skills.google/public_profiles/5e2989aa-4f17-4598-a38c-4292fb70470b/badges/2824000">
+        <img width="120" src="https://github.com/user-attachments/assets/73e3b44b-a12a-4e58-9cbf-b2f4a2619458" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-4169E1?style=flat&labelColor=191970" width="80">
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/🏅-GOOGLE-4169E1?style=for-the-badge&labelColor=191970" width="100">
+      <br>
+      <a href="https://www.skills.google/public_profiles/5e2989aa-4f17-4598-a38c-4292fb70470b/badges/2806271">
+        <img width="120" src="https://github.com/user-attachments/assets/08f9659e-be84-422a-ade6-0da8cdaf6dcb" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-4169E1?style=flat&labelColor=191970" width="80">
+    </td>
+  </tr>
+</table>
 
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Shubham </h1>
-
-
 
 <h3 align="center">Creating cool stuff with AI </h3>
 
