@@ -1,4 +1,12 @@
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
+
+
+
+
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Shubham </h1>
+
+
+
 <h3 align="center">Creating cool stuff with AI </h3>
 
 <img display="flex" align="right" justify-content="flex-end" width="350" height="300" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
@@ -6,7 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/shub_exe19" target="blank"><img src="https://img.shields.io/twitter/follow/shub_exe19?logo=twitter&style=for-the-badge" alt="shub_exe19" /></a> </p>
 
-- 🌱 I’m currently learning **GenAI, Cloud Computing | DSA(Python)**
+- 🌱 I’m currently learning **GenAI, Cloud Computing | DSA(JAVA, Python)**
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/shubham-bawari/)**
 
@@ -58,5 +66,8 @@
 </details>
 
 [![An image of @shubsolos19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubsolos19)](https://holopin.io/@shubsolos19)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
+
 
 
