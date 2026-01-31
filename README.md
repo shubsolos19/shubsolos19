@@ -93,7 +93,7 @@
     <td align="center" width="150">
       <img src="https://img.shields.io/badge/🏅-GOOGLE-4169E1?style=for-the-badge&labelColor=191970" width="100">
       <br>
-      <a href="https://www.skills.google/public_profiles/5e2989aa-4f17-4598-a38c-4292fb70470b/badges/2768421">
+      <a href="https://www.skills.google/public_profiles/5e2989aa-4f17-4598-a38c-4292fb70470b/badges/2824000">
         <img width="120" src="https://github.com/user-attachments/assets/d5e02218-2bdf-4b18-8f92-adbd930f7905" />
       </a>
       <br>
@@ -102,7 +102,7 @@
     <td align="center" width="150">
       <img src="https://img.shields.io/badge/🏅-GOOGLE-4169E1?style=for-the-badge&labelColor=191970" width="100">
       <br>
-      <a href="https://www.skills.google/public_profiles/5e2989aa-4f17-4598-a38c-4292fb70470b/badges/2780858">
+      <a href="https://www.skills.google/public_profiles/5e2989aa-4f17-4598-a38c-4292fb70470b/badges/2806271">
         <img width="120" src="https://github.com/user-attachments/assets/80b8edb3-2079-4fe8-87cb-328fec223e32" />
       </a>
       <br>
@@ -111,7 +111,7 @@
     <td align="center" width="150">
       <img src="https://img.shields.io/badge/🏅-GOOGLE-4169E1?style=for-the-badge&labelColor=191970" width="100">
       <br>
-      <a href="https://www.skills.google/public_profiles/5e2989aa-4f17-4598-a38c-4292fb70470b/badges/2824000">
+      <a href="https://www.skills.google/public_profiles/5e2989aa-4f17-4598-a38c-4292fb70470b/badges/2768421">
         <img width="120" src="https://github.com/user-attachments/assets/181dc011-3a8f-4743-af28-83880cc73290" />
       </a>
       <br>
@@ -120,7 +120,7 @@
     <td align="center" width="150">
       <img src="https://img.shields.io/badge/🏅-GOOGLE-4169E1?style=for-the-badge&labelColor=191970" width="100">
       <br>
-      <a href="https://www.skills.google/public_profiles/5e2989aa-4f17-4598-a38c-4292fb70470b/badges/2806271">
+      <a href="https://www.skills.google/public_profiles/5e2989aa-4f17-4598-a38c-4292fb70470b/badges/2780858">
         <img width="120" src="https://github.com/user-attachments/assets/12257dfd-b26e-4ba7-a50c-ac9b85ef92c8" />
       </a>
       <br>
