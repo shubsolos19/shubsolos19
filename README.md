@@ -202,14 +202,14 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
   
   ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> "Code is poetry written in logic"
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling"/>
   
 </div>
-
+-->
 
 
 
