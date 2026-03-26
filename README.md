@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
+
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Shubham </h1>
 <img display="flex" align="right" justify-content="flex-end" width="350" height="300" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
@@ -217,6 +217,11 @@
     <img src="https://render.gitanimals.org/farms/shubsolos19"/>
   </a>
 </div>
-
+<br>
+<p align="center">
+  <img src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/footer.png"/>
+</p>
+</div>
+<h4 align="center">
 
 
