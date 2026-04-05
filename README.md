@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Shubham </h1>
 <img display="flex" align="right" justify-content="flex-end" width="350" height="300" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
-<p align="left"> <a href="https://twitter.com/shub_exe19" target="blank"><img src="https://img.shields.io/twitter/follow/shub_exe19?logo=twitter&style=for-the-badge" alt="shub_exe19" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shub_exe19" target="blank"><img src="https://img.shields.io/twitter/follow/shub_exe19?logo=twitter&style=for-the-badge" alt="shub_exe19" /></a>
 
 - 🌱 I’m currently learning **GenAI, Cloud Computing | DSA(JAVA, Python)**
 
@@ -223,5 +223,8 @@
 </p>
 </div>
 <h4 align="center">
+
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=shubsolos19)
 
 
