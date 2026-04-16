@@ -1,8 +1,16 @@
+<img width="2048" height="1080" alt="From KlickPin CF Pin on 빠른 저장" src="https://github.com/user-attachments/assets/897af403-3b56-47c8-a981-2d5c8fd4c333" />
+
+
+
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Shubham </h1>
-<img display="flex" align="right" justify-content="flex-end" width="350" height="300" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
+
+<!--
+<img display="flex" align="right" justify-content="flex-end" width="350" height="300" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"> -->
+
 <p align="left"> <a href="https://twitter.com/shub_exe19" target="blank"><img src="https://img.shields.io/twitter/follow/shub_exe19?logo=twitter&style=for-the-badge" alt="shub_exe19" /></a>
 
 - 🌱 I’m currently learning **GenAI, Cloud Computing** 
@@ -12,9 +20,10 @@
 - 💬 <strong>Ask Me About:</strong> GCP, AWS, Python, Open Source, or anything.
   
 - 📍 <strong>Location:</strong> India
-
+  
 <h3 style="font-size: 28px; text-decoration: none;">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZqNDhxaWhsazB1dGt5cnp0MjF6ZDJkMmp1YWQ0ZG5xamlqNW9oNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
+  <img 
+src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZqNDhxaWhsazB1dGt5cnp0MjF6ZDJkMmp1YWQ0ZG5xamlqNW9oNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
   <b>Connect With Me</b>
 </h3>
   
